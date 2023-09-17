@@ -43,6 +43,11 @@ This program is Written in Such a way that the user have to enter the numbers .
 The Functionalities of this program is such that :- 
 - The  number will be Swapped.
 - i.e if a=10,b=20, then after Swapping the value of a=20,b=10.
-  
+
+# Num
+ This program is written in such a manner  that the user can enter any number
+ If the number is Even 
+ - It will print that the number is Even
+ - Otherwise the number is odd.
      
    
