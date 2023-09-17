@@ -30,6 +30,13 @@ This program is made in such a way that the user have to input three numbers.
 
 Which have the Functionalities :-
 - It will tell you that which is the greatest number of the three numbres entred by the user
+
+# Number
+This  program is Written in such a way
+Which have the following Functionalities:-
+- User will enter the number if the number is greater that Zero
+    - It will tell that the number is positive .
+    - Otherwise the number is negative.
   
      
    
