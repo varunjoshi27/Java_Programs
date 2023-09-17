@@ -10,7 +10,8 @@
     - otherwise You are a Kid.
 
 # Calculator
-   I have made a Calculator using Java language.
+   I have made a Calculator using Java language
+   
    This Calculator have a basic Functionalities like:-
    - Addition
    - Substraction
