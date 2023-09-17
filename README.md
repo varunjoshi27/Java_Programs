@@ -24,6 +24,12 @@
 I have made a program using Java Language 
 Which have the following Functionalities :-
 - It can check Weather the year is a leap year or not
+
+# Greatest 
+This program is made in such a way that the user have to input three numbers.
+
+Which have the Functionalities :-
+- It will tell you that which is the greatest number of the three numbres entred by the user
   
      
    
