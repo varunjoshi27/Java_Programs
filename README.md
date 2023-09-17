@@ -37,6 +37,12 @@ Which have the following Functionalities:-
 - User will enter the number if the number is greater that Zero
     - It will tell that the number is positive .
     - Otherwise the number is negative.
+ 
+# Swapping 
+This program is Written in Such a way that the user have to enter the numbers .
+The Functionalities of this program is such that :- 
+- The  number will be Swapped.
+- i.e if a=10,b=20, then after Swapping the value of a=20,b=10.
   
      
    
