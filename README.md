@@ -5,7 +5,9 @@
 
 
 # Eligilble 
-1. You can get to know that you are above 18 or not.
+ You can get to know that you are above 18 or not.
+ Which have the following Functionalities :-
+ 
     - If above 18 you are Adult.
     - otherwise You are a Kid.
 
@@ -17,6 +19,11 @@
    - Substraction
    - Division
    - Multiplication
+
+# Leap Year
+I have made a program using Java Language 
+Which have the following Functionalities :-
+- It can check Weather the year is a leap year or not
   
      
    
